@@ -1,4 +1,4 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": ["layouts/preonic_rev3_drop_layout_ortho_5x12_mine.json"]
 }
